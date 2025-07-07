@@ -1,0 +1,8 @@
+BasedOnStyle: llvm
+IndentWidth: 4
+AllowShortEnumsOnASingleLine: False
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+ColumnLimit: 80
+SpaceAfterTemplateKeyword: true
+IndentPPDirectives: AfterHash
